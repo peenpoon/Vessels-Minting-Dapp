@@ -1,9 +1,10 @@
 {
-  "name": "hashlips_nft_minting_dapp",
+  "name": "Vessels_NFT_minting_dapp",
   "version": "1.0.0",
-  "description": "HashLips minting dapp is a quick and easy way to connect your smart contract and start minting NFTs.",
+  "description": "The Vessels minting dapp.",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.17.8",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
