@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "description": "The Vessels minting dapp.",
   "private": true,
-  "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
-    "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
-},
   "dependencies": {
     "@babel/core": "^7.17.8",
     "@web3-react/metamask": "^8.0.16-beta.0",
@@ -41,16 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "assert": "^2.0.0",
-    "buffer": "^6.0.3",
-    "crypto-browserify": "^3.12.0",
-    "https-browserify": "^1.0.0",
-    "os-browserify": "^0.3.0",
-    "process": "^0.11.10",
-    "react-app-rewired": "^2.2.1",
-    "stream-http": "^3.2.0",
-    "url": "^0.11.0"
   }
 }
